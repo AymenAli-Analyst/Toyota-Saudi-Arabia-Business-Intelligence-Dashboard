@@ -1,0 +1,2 @@
+# Toyota-Saudi-Arabia-Business-Intelligence-Dashboard
+Interactive Power BI dashboard developed to analyze Toyota Saudi Arabia sales performance, profitability, operational efficiency, and business growth trends. The project provides insights into revenue, profit margins, top-selling vehicle models, city performance, salary distribution, customer satisfaction, inventory levels, and key business KPIs 
