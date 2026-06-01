@@ -10,8 +10,7 @@ An interactive Power BI dashboard designed to analyze Toyota Saudi Arabia's sale
 
 ### 1️⃣ Sales & Profit Dashboard
 
-![Sales & Profit Dashboard](D:\aymen_projecut\pro17\Toyota 1.png)
-
+![Sales & Profit Dashboard](https://github.com/AymenAli-Analyst/Toyota-Saudi-Arabia-Business-Intelligence-Dashboard/blob/main/Toyota%201.png?raw=true)
 ---
 
 ### 2️⃣ Business Performance & Geographical Analysis
