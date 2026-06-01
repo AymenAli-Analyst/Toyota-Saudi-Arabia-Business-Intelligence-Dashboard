@@ -1,0 +1,501 @@
+Employee_ID,Full_Name,Gender,Age,Nationality,Branch_ID,City,Department,Position,Hire_Date,Monthly_Salary,Employment_Status,Years_of_Experience
+1,Bander Al-Otaibi,Male,36,Saudi,36,Jazan,Logistics,Logistics Manager,3/7/2022,18438,On Leave,4
+2,Ali Al-Shammari,Male,38,Egyptian,31,Abha,Marketing,Marketing Manager,9/3/2015,30419,On Leave,11
+3,Fatima Al-Mutairi,Female,29,Saudi,16,Dammam,Marketing,Marketing Specialist,2/14/2024,8640,Active,2
+4,Ahmed Khan,Male,41,Saudi,26,Madinah,Customer Service,Relationship Advisor,5/15/2025,7321,Active,1
+5,Rania Al-Ghamdi,Female,36,Indian,37,Jazan,Sales,Sales Consultant,4/17/2023,6678,On Leave,3
+6,Yousef Al-Harbi,Male,25,Egyptian,20,Makkah,Marketing,Marketing Specialist,9/10/2025,11241,Active,1
+7,Rasha Hassan,Female,43,Saudi,36,Jazan,Customer Service,Customer Service Manager,10/7/2019,20113,Active,7
+8,Yousef Al-Ghamdi,Male,45,Saudi,6,Riyadh,Logistics,Shipping Coordinator,1/1/2019,6764,Active,7
+9,Sultan Mahmoud,Male,39,Syrian,36,Jazan,Logistics,Shipping Coordinator,1/4/2023,8169,Active,3
+10,Fatima Al-Malki,Female,43,Egyptian,28,Khobar,Customer Service,Customer Service Rep,6/26/2019,8368,Active,7
+11,Sara Al-Ghamdi,Female,45,Indian,23,Makkah,HR,Recruitment Officer,10/24/2021,10676,Active,5
+12,Noura Hassan,Female,29,Egyptian,27,Khobar,HR,Recruitment Officer,5/6/2018,12403,Active,8
+13,Yousef Al-Dosari,Male,55,Saudi,30,Abha,Maintenance,Workshop Manager,4/1/2018,20459,On Leave,8
+14,Tariq Al-Ahmari,Male,36,Filipino,26,Madinah,Logistics,Logistics Manager,1/4/2020,19948,Active,6
+15,Noura Al-Fahd,Female,22,Indian,39,Al Baha,Finance,Finance Specialist,7/20/2020,12193,On Leave,6
+16,Manal Al-Mutairi,Female,38,Saudi,35,Hail,Logistics,Logistics Manager,4/12/2025,16750,Active,1
+17,Hanan Al-Ghamdi,Female,41,Saudi,20,Makkah,Marketing,Graphic Designer,7/11/2025,6665,Active,1
+18,Ghada Salem,Female,42,Saudi,37,Jazan,Maintenance,Electrician,1/10/2023,9106,Active,3
+19,Nasser Ali,Male,43,Indian,30,Abha,Finance,Collector,4/17/2025,3128,Active,1
+20,Saad Al-Rashid,Male,23,Saudi,40,Arar,Maintenance,Maintenance Technician,11/10/2018,10160,Active,8
+21,Maha Al-Shehri,Female,42,Saudi,31,Abha,Marketing,Marketing Specialist,7/21/2022,8784,Resigned,4
+22,Noura Ibrahim,Female,29,Pakistani,1,Riyadh,HR,HR Specialist,4/6/2021,9271,Active,5
+23,Wafa Khan,Female,40,Syrian,30,Abha,Customer Service,Customer Service Manager,9/18/2025,13729,Active,1
+24,Maha Al-Ahmari,Female,36,Syrian,31,Abha,Finance,Finance Specialist,11/9/2018,11218,Active,8
+25,Omar Al-Qahtani,Male,48,Saudi,19,Dammam,Customer Service,Customer Service Manager,6/18/2020,20000,Active,6
+26,Tariq Al-Shammari,Male,37,Jordanian,22,Makkah,Marketing,Events Coordinator,1/7/2021,8402,Active,5
+27,Yousef Al-Fahd,Male,37,Jordanian,23,Makkah,Maintenance,Electrician,9/24/2021,9202,Active,5
+28,Faisal Mahmoud,Male,40,Syrian,25,Madinah,Maintenance,Electrician,8/5/2017,9089,Resigned,9
+29,Mona Al-Shammari,Female,30,Saudi,2,Riyadh,Sales,Sales Representative,8/6/2017,8177,Active,9
+30,Maha Al-Qahtani,Female,42,Saudi,17,Dammam,HR,HR Specialist,1/24/2022,9903,Active,4
+31,Waleed Al-Ahmari,Male,33,Saudi,2,Riyadh,Customer Service,Customer Service Rep,10/5/2015,8606,Active,11
+32,Ghada Al-Shammari,Female,34,Saudi,39,Al Baha,Marketing,Marketing Specialist,5/4/2017,13454,Resigned,9
+33,Sultan Ibrahim,Male,48,Syrian,13,Jeddah,Sales,Sales Manager,12/25/2016,26516,Resigned,10
+34,Amal Khan,Female,34,Saudi,24,Madinah,Sales,Sales Supervisor,7/27/2015,16939,Active,11
+35,Ghada Al-Ahmari,Female,45,Saudi,12,Jeddah,Logistics,Logistics Manager,5/20/2025,17244,Active,1
+36,Mona Al-Rashid,Female,37,Syrian,16,Dammam,HR,HR Specialist,8/8/2019,9639,Active,7
+37,Ibrahim Al-Zahrani,Male,37,Syrian,12,Jeddah,Finance,Finance Manager,5/11/2020,25750,Active,6
+38,Khalid Al-Bishi,Male,42,Saudi,27,Khobar,Finance,Finance Manager,11/23/2022,25323,Active,4
+39,Mariam Al-Ahmari,Female,44,Saudi,16,Dammam,Maintenance,Workshop Manager,9/17/2022,16125,Active,4
+40,Omar Al-Zahrani,Male,50,Saudi,15,Dammam,Sales,Sales Manager,2/24/2020,26205,Active,6
+41,Sara Ibrahim,Female,26,Saudi,38,Najran,HR,Recruitment Officer,5/4/2024,8665,Active,2
+42,Tariq Al-Bishi,Male,45,Egyptian,3,Riyadh,Sales,Sales Supervisor,11/28/2017,13772,Active,9
+43,Tariq Al-Otaibi,Male,34,Saudi,29,Khobar,Maintenance,Maintenance Engineer,5/28/2015,16759,Active,11
+44,Ibrahim Al-Shammari,Male,36,Syrian,37,Jazan,Maintenance,Maintenance Technician,2/18/2018,10059,Active,8
+45,Yousef Al-Qahtani,Male,27,Indian,20,Makkah,HR,Recruitment Officer,5/19/2021,8381,Active,5
+46,Rania Al-Otaibi,Female,29,Saudi,12,Jeddah,Marketing,Marketing Specialist,1/14/2017,11379,Active,9
+47,Majed Al-Harbi,Male,39,Saudi,19,Dammam,Logistics,Shipping Coordinator,11/8/2016,9813,Active,10
+48,Mariam Al-Harbi,Female,44,Syrian,10,Jeddah,Maintenance,Maintenance Engineer,1/6/2016,17189,Resigned,10
+49,Mona Salem,Female,30,Saudi,20,Makkah,Logistics,Shipping Coordinator,9/18/2019,7015,Active,7
+50,Ghada Al-Otaibi,Female,27,Pakistani,6,Riyadh,Customer Service,Relationship Advisor,10/1/2024,8815,Active,2
+51,Khadija Al-Mutairi,Female,32,Jordanian,34,Hail,Logistics,Shipping Coordinator,3/19/2019,5737,Resigned,7
+52,Wafa Al-Otaibi,Female,36,Saudi,7,Riyadh,HR,HR Specialist,7/23/2020,11119,Active,6
+53,Khadija Al-Otaibi,Female,41,Saudi,21,Makkah,Maintenance,Workshop Manager,7/28/2016,19534,On Leave,10
+54,Wafa Al-Shehri,Female,31,Saudi,24,Madinah,Marketing,Events Coordinator,8/25/2025,6552,Active,1
+55,Sami Al-Fahd,Male,24,Saudi,29,Khobar,Logistics,Shipping Coordinator,1/21/2016,7676,Active,10
+56,Khadija Hassan,Female,37,Filipino,8,Riyadh,Finance,Accountant,3/16/2025,7932,Active,1
+57,Mona Ali,Female,43,Filipino,16,Dammam,Finance,Finance Manager,4/20/2021,22946,Active,5
+58,Waleed Ibrahim,Male,37,Saudi,19,Dammam,Logistics,Shipping Coordinator,10/22/2024,5943,Active,2
+59,Majed Al-Otaibi,Male,32,Saudi,22,Makkah,Marketing,Events Coordinator,6/28/2022,8381,Resigned,4
+60,Noura Al-Shehri,Female,38,Indian,31,Abha,Logistics,Shipping Coordinator,11/26/2021,8307,On Leave,5
+61,Khalid Hassan,Male,30,Saudi,22,Makkah,HR,HR Specialist,2/17/2022,9748,Active,4
+62,Mona Hassan,Female,39,Saudi,40,Arar,Logistics,Shipping Coordinator,2/28/2025,5681,Active,1
+63,Fahad Khan,Male,27,Jordanian,3,Riyadh,Marketing,Marketing Specialist,11/22/2018,14935,Resigned,8
+64,Huda Al-Malki,Female,38,Saudi,20,Makkah,Sales,Sales Consultant,1/10/2020,6154,Active,6
+65,Ghada Al-Shehri,Female,37,Saudi,37,Jazan,Logistics,Warehouse Supervisor,3/3/2017,7941,Active,9
+66,Wafa Al-Ghamdi,Female,24,Saudi,17,Dammam,Finance,Finance Specialist,1/26/2025,8826,Active,1
+67,Lina Al-Harbi,Female,42,Saudi,29,Khobar,Maintenance,Workshop Manager,7/23/2025,15748,Active,1
+68,Dana Al-Rashid,Female,40,Saudi,25,Madinah,Marketing,Graphic Designer,5/23/2024,9631,Resigned,2
+69,Huda Al-Harbi,Female,42,Saudi,4,Riyadh,Marketing,Events Coordinator,4/20/2019,9000,Resigned,7
+70,Mona Al-Fahd,Female,27,Egyptian,3,Riyadh,Maintenance,Electrician,10/12/2015,10958,Active,11
+71,Rania Al-Mutairi,Female,25,Saudi,9,Jeddah,HR,Recruitment Officer,9/17/2020,11362,Active,6
+72,Reem Al-Shammari,Female,22,Syrian,5,Riyadh,Customer Service,Customer Service Rep,12/22/2025,4800,Active,1
+73,Lama Al-Malki,Female,37,Saudi,17,Dammam,Marketing,Marketing Specialist,6/22/2022,10195,Active,4
+74,Rania Al-Fahd,Female,25,Saudi,40,Arar,Marketing,Graphic Designer,4/21/2024,6920,Active,2
+75,Wafa Al-Fahd,Female,48,Saudi,3,Riyadh,Sales,Sales Supervisor,2/4/2022,12118,Resigned,4
+76,Sultan Al-Zahrani,Male,36,Filipino,10,Jeddah,Finance,Accountant,10/14/2022,10836,Active,4
+77,Dana Al-Zahrani,Female,38,Saudi,16,Dammam,HR,HR Manager,11/12/2016,22846,Active,10
+78,Maha Al-Shehri,Female,48,Egyptian,6,Riyadh,Logistics,Warehouse Supervisor,11/20/2025,5538,Active,1
+79,Yousef Al-Shehri,Male,39,Saudi,14,Jeddah,Sales,Sales Manager,4/27/2024,20409,On Leave,2
+80,Sultan Al-Malki,Male,40,Saudi,17,Dammam,HR,HR Specialist,11/28/2016,11348,Active,10
+81,Amal Ali,Female,53,Saudi,2,Riyadh,Customer Service,Customer Service Manager,3/24/2015,22818,Active,11
+82,Mariam Al-Rashid,Female,36,Pakistani,29,Khobar,Marketing,Marketing Manager,1/24/2024,20034,Active,2
+83,Saad Al-Ahmari,Male,41,Saudi,26,Madinah,Finance,Accountant,12/15/2022,9967,Resigned,4
+84,Lama Al-Harbi,Female,42,Saudi,38,Najran,Marketing,Graphic Designer,10/17/2021,8932,Resigned,5
+85,Bander Al-Fahd,Male,40,Saudi,36,Jazan,Logistics,Warehouse Supervisor,8/8/2021,5893,Resigned,5
+86,Khalid Al-Fahd,Male,33,Saudi,17,Dammam,Maintenance,Maintenance Engineer,8/3/2025,13566,Active,1
+87,Amal Al-Fahd,Female,45,Saudi,24,Madinah,HR,HR Specialist,1/19/2023,10436,Active,3
+88,Hassan Al-Malki,Male,25,Saudi,19,Dammam,Marketing,Graphic Designer,2/19/2020,8754,Active,6
+89,Rashid Al-Ahmari,Male,22,Syrian,36,Jazan,Maintenance,Maintenance Technician,10/8/2019,10129,Active,7
+90,Tariq Al-Shammari,Male,24,Saudi,18,Dammam,Logistics,Shipping Coordinator,6/1/2020,5342,Active,6
+91,Mohammed Al-Shehri,Male,40,Syrian,2,Riyadh,Sales,Sales Manager,7/15/2021,21980,On Leave,5
+92,Khadija Al-Ahmari,Female,36,Saudi,4,Riyadh,Logistics,Warehouse Supervisor,8/22/2019,8908,On Leave,7
+93,Ali Al-Shammari,Male,41,Saudi,8,Riyadh,Maintenance,Electrician,5/22/2016,10748,Active,10
+94,Lama Al-Rashid,Female,50,Saudi,1,Riyadh,Customer Service,Customer Service Manager,3/25/2018,19959,Resigned,8
+95,Reem Al-Shammari,Female,45,Saudi,28,Khobar,Customer Service,Customer Service Rep,9/23/2021,7034,Active,5
+96,Khadija Al-Bishi,Female,25,Saudi,28,Khobar,Sales,Sales Representative,6/19/2016,8769,Active,10
+97,Ali Al-Fahd,Male,48,Saudi,2,Riyadh,Maintenance,Maintenance Engineer,8/27/2024,12848,Active,2
+98,Khalid Ali,Male,42,Saudi,34,Hail,Sales,Sales Representative,12/11/2019,5869,Active,7
+99,Saad Al-Ahmari,Male,41,Saudi,34,Hail,Marketing,Marketing Manager,6/24/2020,24790,Active,6
+100,Ghada Mahmoud,Female,36,Saudi,39,Al Baha,Customer Service,Relationship Advisor,3/25/2016,11626,Resigned,10
+101,Mariam Al-Bishi,Female,43,Saudi,37,Jazan,Logistics,Logistics Manager,6/28/2024,18457,On Leave,2
+102,Rania Al-Qahtani,Female,42,Saudi,4,Riyadh,Maintenance,Maintenance Technician,8/15/2019,9291,Active,7
+103,Bander Salem,Male,37,Saudi,40,Arar,Marketing,Events Coordinator,10/18/2022,9371,On Leave,4
+104,Mohammed Al-Malki,Male,44,Saudi,10,Jeddah,Sales,Sales Representative,6/23/2016,7035,Active,10
+105,Bander Al-Qahtani,Male,45,Saudi,29,Khobar,Marketing,Marketing Manager,6/10/2020,22088,Active,6
+106,Bander Al-Qahtani,Male,40,Syrian,36,Jazan,Logistics,Shipping Coordinator,5/24/2019,8546,Resigned,7
+107,Mona Al-Shehri,Female,51,Filipino,10,Jeddah,Maintenance,Workshop Manager,12/22/2025,14703,Active,1
+108,Aisha Al-Zahrani,Female,45,Saudi,6,Riyadh,Logistics,Logistics Manager,9/12/2021,20844,Active,5
+109,Bander Salem,Male,26,Pakistani,13,Jeddah,Customer Service,Customer Service Rep,2/10/2017,8233,On Leave,9
+110,Waleed Al-Otaibi,Male,35,Saudi,25,Madinah,Customer Service,Customer Service Rep,12/25/2017,7592,Active,9
+111,Ghada Khan,Female,36,Indian,16,Dammam,Finance,Finance Specialist,4/18/2022,10976,Active,4
+112,Noura Hassan,Female,33,Saudi,25,Madinah,Marketing,Events Coordinator,4/26/2017,12014,On Leave,9
+113,Reem Al-Malki,Female,49,Indian,7,Riyadh,Logistics,Logistics Manager,5/3/2016,24065,Active,10
+114,Sultan Al-Malki,Male,22,Saudi,2,Riyadh,Finance,Accountant,9/12/2021,9204,Active,5
+115,Hassan Khan,Male,41,Jordanian,7,Riyadh,HR,Recruitment Officer,6/26/2025,8044,Active,1
+116,Lama Al-Bishi,Female,29,Saudi,1,Riyadh,Sales,Sales Consultant,4/27/2019,8321,Active,7
+117,Ibrahim Mahmoud,Male,42,Jordanian,8,Riyadh,Sales,Sales Manager,11/26/2021,22241,Resigned,5
+118,Aisha Al-Qahtani,Female,38,Saudi,10,Jeddah,Maintenance,Electrician,10/12/2015,11373,Active,11
+119,Sultan Al-Qahtani,Male,33,Saudi,5,Riyadh,Marketing,Marketing Specialist,8/2/2021,8771,Active,5
+120,Aisha Khan,Female,44,Saudi,7,Riyadh,HR,Recruitment Officer,3/2/2020,7629,Active,6
+121,Mohammed Al-Mutairi,Male,31,Saudi,12,Jeddah,HR,HR Specialist,12/25/2016,12257,On Leave,10
+122,Amal Al-Otaibi,Female,42,Indian,26,Madinah,HR,Recruitment Officer,5/2/2022,8904,Active,4
+123,Hassan Hassan,Male,41,Saudi,18,Dammam,Sales,Sales Supervisor,7/24/2021,10173,On Leave,5
+124,Sami Al-Bishi,Male,32,Saudi,18,Dammam,HR,HR Specialist,2/14/2021,10925,Active,5
+125,Noura Al-Dosari,Female,54,Saudi,6,Riyadh,Maintenance,Workshop Manager,8/20/2019,20128,Active,7
+126,Ahmed Al-Shehri,Male,49,Saudi,18,Dammam,Logistics,Warehouse Supervisor,11/21/2016,8408,Resigned,10
+127,Waleed Al-Dosari,Male,46,Egyptian,29,Khobar,Sales,Sales Manager,4/25/2016,26419,Active,10
+128,Maha Al-Harbi,Female,35,Saudi,5,Riyadh,Marketing,Marketing Manager,6/13/2023,19950,Resigned,3
+129,Lina Al-Zahrani,Female,25,Saudi,12,Jeddah,Finance,Collector,2/9/2023,5993,Active,3
+130,Amal Al-Qahtani,Female,52,Saudi,5,Riyadh,Finance,Finance Manager,2/26/2022,22458,On Leave,4
+131,Hassan Al-Rashid,Male,41,Indian,19,Dammam,Maintenance,Maintenance Engineer,3/26/2025,12140,Active,1
+132,Khalid Al-Bishi,Male,34,Saudi,36,Jazan,Marketing,Graphic Designer,9/5/2022,8944,Resigned,4
+133,Rasha Al-Dosari,Female,26,Saudi,31,Abha,Marketing,Events Coordinator,10/3/2021,8741,On Leave,5
+134,Ibrahim Al-Shehri,Male,31,Saudi,38,Najran,Customer Service,Customer Service Rep,9/28/2021,7493,Active,5
+135,Huda Al-Bishi,Female,49,Saudi,11,Jeddah,Maintenance,Maintenance Engineer,9/10/2020,16030,On Leave,6
+136,Ghada Al-Otaibi,Female,35,Saudi,6,Riyadh,Marketing,Marketing Manager,10/5/2024,19174,Active,2
+137,Wafa Al-Bishi,Female,55,Saudi,3,Riyadh,Logistics,Logistics Manager,11/7/2019,21710,Active,7
+138,Abdullah Khan,Male,35,Saudi,31,Abha,Customer Service,Relationship Advisor,5/15/2021,8967,Active,5
+139,Huda Al-Dosari,Female,51,Filipino,30,Abha,Customer Service,Customer Service Manager,3/11/2024,17065,On Leave,2
+140,Fahad Al-Otaibi,Male,39,Saudi,7,Riyadh,Maintenance,Maintenance Engineer,2/9/2022,13729,Active,4
+141,Lina Al-Bishi,Female,50,Saudi,40,Arar,Finance,Finance Manager,6/19/2017,28882,Active,9
+142,Nasser Hassan,Male,41,Saudi,6,Riyadh,Finance,Collector,4/19/2018,6361,Resigned,8
+143,Faisal Al-Otaibi,Male,40,Filipino,31,Abha,Maintenance,Maintenance Technician,7/5/2016,11692,On Leave,10
+144,Manal Salem,Female,38,Saudi,13,Jeddah,Maintenance,Workshop Manager,7/17/2016,21414,Active,10
+145,Mohammed Al-Otaibi,Male,26,Saudi,7,Riyadh,Finance,Finance Specialist,9/12/2020,11720,Resigned,6
+146,Bander Salem,Male,45,Saudi,22,Makkah,HR,HR Manager,8/5/2023,18884,Active,3
+147,Lina Al-Rashid,Female,33,Saudi,26,Madinah,Marketing,Graphic Designer,6/17/2024,8282,Active,2
+148,Mohammed Mahmoud,Male,37,Saudi,8,Riyadh,Finance,Finance Specialist,1/20/2025,8363,Active,1
+149,Waleed Al-Mutairi,Male,35,Saudi,11,Jeddah,Marketing,Events Coordinator,11/8/2017,11810,Active,9
+150,Noura Al-Shehri,Female,46,Saudi,27,Khobar,Logistics,Warehouse Supervisor,9/25/2021,7979,Active,5
+151,Dana Salem,Female,37,Saudi,36,Jazan,Maintenance,Electrician,7/11/2023,9693,Active,3
+152,Hassan Al-Mutairi,Male,50,Saudi,16,Dammam,Maintenance,Workshop Manager,5/25/2018,20701,Active,8
+153,Huda Al-Bishi,Female,23,Jordanian,36,Jazan,HR,Recruitment Officer,5/4/2019,9004,Active,7
+154,Sami Al-Ahmari,Male,39,Saudi,6,Riyadh,Maintenance,Electrician,5/24/2025,7317,Active,1
+155,Mohammed Al-Harbi,Male,35,Indian,18,Dammam,Customer Service,Customer Service Rep,12/19/2024,6071,Active,2
+156,Lina Al-Zahrani,Female,44,Saudi,31,Abha,Sales,Sales Manager,9/6/2015,28222,Active,11
+157,Majed Al-Ghamdi,Male,31,Egyptian,19,Dammam,Logistics,Warehouse Supervisor,11/19/2016,9182,Active,10
+158,Bander Al-Bishi,Male,36,Saudi,32,Tabuk,Customer Service,Relationship Advisor,1/1/2019,12428,Resigned,7
+159,Dana Al-Ghamdi,Female,22,Saudi,35,Hail,Marketing,Events Coordinator,9/15/2017,9164,Resigned,9
+160,Khadija Ali,Female,45,Saudi,22,Makkah,HR,HR Manager,11/25/2024,20500,Active,2
+161,Waleed Al-Ahmari,Male,40,Saudi,26,Madinah,Logistics,Warehouse Supervisor,3/16/2017,8363,Active,9
+162,Mohammed Al-Harbi,Male,49,Saudi,38,Najran,Logistics,Logistics Manager,5/21/2015,25475,Active,11
+163,Waleed Salem,Male,33,Jordanian,11,Jeddah,Finance,Finance Specialist,11/10/2016,13024,Active,10
+164,Ibrahim Khan,Male,51,Saudi,36,Jazan,Finance,Finance Manager,11/25/2018,28522,Resigned,8
+165,Lama Al-Zahrani,Female,44,Saudi,24,Madinah,Sales,Sales Consultant,9/17/2015,9667,On Leave,11
+166,Ghada Al-Otaibi,Female,39,Saudi,32,Tabuk,Sales,Sales Representative,8/5/2015,8934,Active,11
+167,Amal Al-Qahtani,Female,47,Saudi,20,Makkah,Logistics,Warehouse Supervisor,5/27/2021,8200,Active,5
+168,Amal Al-Shammari,Female,36,Pakistani,5,Riyadh,Finance,Accountant,7/6/2019,10813,Active,7
+169,Ahmed Al-Rashid,Male,44,Saudi,25,Madinah,Sales,Sales Manager,6/4/2025,19439,Active,1
+170,Ali Khan,Male,46,Saudi,30,Abha,Logistics,Logistics Manager,7/18/2023,19518,Active,3
+171,Omar Al-Qahtani,Male,25,Egyptian,18,Dammam,Customer Service,Relationship Advisor,1/26/2016,11261,On Leave,10
+172,Sami Al-Zahrani,Male,23,Saudi,3,Riyadh,Finance,Accountant,12/2/2018,10032,Active,8
+173,Huda Ali,Female,37,Saudi,33,Tabuk,Maintenance,Maintenance Engineer,6/19/2024,11979,Active,2
+174,Wafa Hassan,Female,23,Pakistani,20,Makkah,Maintenance,Maintenance Technician,10/24/2023,7187,Active,3
+175,Maha Al-Malki,Female,31,Saudi,25,Madinah,HR,Recruitment Officer,12/14/2020,9042,Resigned,6
+176,Faisal Al-Malki,Male,43,Syrian,10,Jeddah,HR,HR Manager,9/14/2015,26810,Active,11
+177,Manal Salem,Female,31,Saudi,22,Makkah,Logistics,Warehouse Supervisor,6/3/2022,5366,Active,4
+178,Rania Al-Rashid,Female,28,Saudi,13,Jeddah,HR,Recruitment Officer,9/7/2025,7457,Active,1
+179,Rania Al-Shammari,Female,44,Syrian,13,Jeddah,Logistics,Warehouse Supervisor,4/23/2022,6663,On Leave,4
+180,Mona Al-Zahrani,Female,46,Saudi,23,Makkah,Maintenance,Workshop Manager,9/16/2020,19087,Active,6
+181,Omar Al-Mutairi,Male,42,Filipino,27,Khobar,Sales,Sales Manager,1/9/2017,24849,Active,9
+182,Lina Hassan,Female,36,Filipino,37,Jazan,HR,HR Specialist,9/21/2022,9164,Active,4
+183,Ibrahim Al-Otaibi,Male,24,Saudi,23,Makkah,Customer Service,Customer Service Rep,8/6/2023,7408,Resigned,3
+184,Saad Al-Rashid,Male,28,Saudi,4,Riyadh,HR,HR Specialist,3/27/2021,9376,On Leave,5
+185,Ahmed Ibrahim,Male,39,Saudi,30,Abha,Maintenance,Maintenance Technician,11/22/2024,9720,Active,2
+186,Aisha Al-Harbi,Female,33,Saudi,1,Riyadh,Sales,Sales Supervisor,5/1/2023,10608,On Leave,3
+187,Hanan Khan,Female,40,Saudi,10,Jeddah,Customer Service,Customer Service Rep,9/9/2024,6364,Active,2
+188,Hanan Al-Shammari,Female,39,Saudi,15,Dammam,Maintenance,Maintenance Technician,11/25/2025,6626,Active,1
+189,Ibrahim Al-Otaibi,Male,29,Saudi,31,Abha,Sales,Sales Consultant,2/16/2017,9511,Active,9
+190,Abdullah Al-Mutairi,Male,22,Syrian,37,Jazan,Finance,Finance Specialist,2/22/2015,12761,Active,11
+191,Hanan Al-Shehri,Female,44,Jordanian,38,Najran,Customer Service,Relationship Advisor,2/10/2021,10387,Resigned,5
+192,Bander Salem,Male,41,Saudi,6,Riyadh,Marketing,Graphic Designer,2/14/2015,11482,On Leave,11
+193,Khadija Al-Ghamdi,Female,53,Saudi,26,Madinah,HR,HR Manager,11/9/2015,26578,Resigned,11
+194,Faisal Al-Shehri,Male,42,Saudi,25,Madinah,Sales,Sales Supervisor,12/3/2018,12929,Active,8
+195,Majed Khan,Male,39,Saudi,24,Madinah,Sales,Sales Consultant,5/15/2015,8794,On Leave,11
+196,Hanan Al-Rashid,Female,31,Saudi,33,Tabuk,Finance,Accountant,2/12/2015,13011,Active,11
+197,Rania Al-Ahmari,Female,37,Saudi,25,Madinah,HR,HR Specialist,4/19/2023,7692,Active,3
+198,Sultan Al-Ahmari,Male,42,Saudi,5,Riyadh,Customer Service,Customer Service Manager,7/10/2019,20048,Resigned,7
+199,Mona Khan,Female,45,Saudi,32,Tabuk,Marketing,Marketing Manager,2/5/2022,20779,Active,4
+200,Aisha Al-Shammari,Female,45,Saudi,39,Al Baha,Customer Service,Customer Service Manager,10/23/2020,21795,Active,6
+201,Tariq Ibrahim,Male,40,Saudi,32,Tabuk,Marketing,Marketing Manager,7/9/2020,23805,Resigned,6
+202,Majed Hassan,Male,26,Saudi,36,Jazan,Sales,Sales Representative,8/26/2018,6086,Resigned,8
+203,Ghada Al-Shammari,Female,52,Saudi,20,Makkah,Customer Service,Customer Service Manager,3/23/2025,14888,Active,1
+204,Fahad Al-Malki,Male,43,Filipino,33,Tabuk,HR,Recruitment Officer,9/2/2021,9826,Resigned,5
+205,Khadija Al-Harbi,Female,22,Saudi,23,Makkah,Customer Service,Relationship Advisor,1/19/2024,10296,Active,2
+206,Waleed Al-Dosari,Male,34,Saudi,17,Dammam,Customer Service,Relationship Advisor,9/19/2023,9045,Active,3
+207,Saad Al-Dosari,Male,44,Egyptian,38,Najran,Logistics,Logistics Manager,6/1/2017,22368,Active,9
+208,Mariam Al-Mutairi,Female,24,Saudi,30,Abha,HR,HR Specialist,8/12/2023,9290,Active,3
+209,Ibrahim Al-Ghamdi,Male,39,Pakistani,3,Riyadh,HR,Recruitment Officer,1/28/2016,10984,Active,10
+210,Abdullah Al-Fahd,Male,34,Saudi,22,Makkah,Marketing,Events Coordinator,4/26/2022,8201,Active,4
+211,Tariq Al-Harbi,Male,52,Saudi,40,Arar,Customer Service,Customer Service Manager,7/13/2024,17195,Active,2
+212,Rasha Al-Mutairi,Female,49,Saudi,24,Madinah,Maintenance,Maintenance Engineer,2/9/2022,14419,Active,4
+213,Manal Mahmoud,Female,24,Saudi,40,Arar,Finance,Accountant,6/28/2020,9806,Resigned,6
+214,Ibrahim Al-Shammari,Male,35,Saudi,9,Jeddah,Maintenance,Maintenance Technician,5/4/2018,9961,On Leave,8
+215,Sami Al-Ghamdi,Male,37,Saudi,9,Jeddah,Marketing,Events Coordinator,3/16/2021,7111,Active,5
+216,Huda Al-Zahrani,Female,47,Egyptian,9,Jeddah,Customer Service,Customer Service Manager,10/2/2022,16843,On Leave,4
+217,Tariq Al-Rashid,Male,29,Saudi,33,Tabuk,Logistics,Shipping Coordinator,11/16/2021,5223,Active,5
+218,Wafa Ali,Female,33,Syrian,3,Riyadh,Maintenance,Maintenance Engineer,5/6/2023,14767,On Leave,3
+219,Nasser Al-Otaibi,Male,49,Egyptian,8,Riyadh,Maintenance,Workshop Manager,1/25/2023,17006,Active,3
+220,Manal Al-Fahd,Female,27,Indian,23,Makkah,HR,HR Specialist,2/25/2022,8366,On Leave,4
+221,Rania Al-Bishi,Female,40,Saudi,9,Jeddah,HR,HR Specialist,1/19/2018,10719,Active,8
+222,Saad Al-Malki,Male,34,Pakistani,33,Tabuk,Logistics,Warehouse Supervisor,7/2/2017,9354,Resigned,9
+223,Mariam Al-Qahtani,Female,42,Saudi,21,Makkah,HR,HR Specialist,7/16/2025,9286,Active,1
+224,Khalid Khan,Male,42,Saudi,6,Riyadh,Finance,Finance Specialist,8/16/2020,12802,Resigned,6
+225,Rania Al-Mutairi,Female,39,Saudi,23,Makkah,HR,HR Specialist,7/7/2023,11029,On Leave,3
+226,Waleed Al-Rashid,Male,25,Saudi,9,Jeddah,Marketing,Events Coordinator,11/25/2020,8078,Active,6
+227,Reem Al-Dosari,Female,30,Saudi,29,Khobar,Finance,Accountant,4/23/2021,11741,Active,5
+228,Majed Al-Qahtani,Male,38,Saudi,24,Madinah,Logistics,Logistics Manager,1/13/2017,22085,Active,9
+229,Lama Al-Fahd,Female,44,Saudi,14,Jeddah,Finance,Accountant,10/8/2017,10522,Active,9
+230,Amal Al-Bishi,Female,39,Egyptian,31,Abha,Sales,Sales Manager,2/24/2021,22367,Active,5
+231,Fatima Al-Shehri,Female,48,Saudi,9,Jeddah,Logistics,Logistics Manager,2/17/2017,21934,On Leave,9
+232,Amal Al-Fahd,Female,32,Syrian,29,Khobar,HR,HR Specialist,2/5/2016,11468,Active,10
+233,Nasser Al-Zahrani,Male,38,Pakistani,16,Dammam,Maintenance,Maintenance Technician,9/20/2018,8693,On Leave,8
+234,Hassan Al-Shammari,Male,25,Saudi,33,Tabuk,Customer Service,Relationship Advisor,5/21/2021,9195,Active,5
+235,Amal Ibrahim,Female,40,Saudi,32,Tabuk,Logistics,Logistics Manager,9/1/2016,26323,Active,10
+236,Faisal Ali,Male,31,Saudi,5,Riyadh,Sales,Sales Consultant,5/7/2015,9108,Resigned,11
+237,Reem Al-Bishi,Female,37,Saudi,33,Tabuk,HR,HR Manager,12/13/2021,22327,On Leave,5
+238,Nasser Al-Fahd,Male,45,Saudi,14,Jeddah,HR,HR Specialist,6/13/2023,9813,Active,3
+239,Fahad Al-Rashid,Male,44,Saudi,4,Riyadh,Customer Service,Customer Service Rep,2/15/2021,6618,Active,5
+240,Aisha Al-Dosari,Female,39,Pakistani,1,Riyadh,Customer Service,Customer Service Manager,9/17/2020,19281,Resigned,6
+241,Hassan Khan,Male,46,Saudi,18,Dammam,Logistics,Warehouse Supervisor,6/26/2015,8199,Active,11
+242,Ali Ali,Male,35,Syrian,4,Riyadh,Finance,Finance Manager,3/9/2020,26523,Active,6
+243,Maha Al-Mutairi,Female,29,Egyptian,1,Riyadh,Customer Service,Customer Service Rep,6/13/2022,7150,Active,4
+244,Abdullah Al-Malki,Male,38,Saudi,21,Makkah,Maintenance,Maintenance Technician,6/4/2024,7398,Active,2
+245,Ghada Al-Bishi,Female,45,Saudi,26,Madinah,Sales,Sales Representative,5/11/2019,7695,On Leave,7
+246,Saad Al-Rashid,Male,35,Pakistani,16,Dammam,Finance,Finance Specialist,8/25/2024,10470,Active,2
+247,Lama Al-Zahrani,Female,38,Saudi,15,Dammam,Marketing,Graphic Designer,12/1/2025,7401,Active,1
+248,Ali Ali,Male,35,Saudi,16,Dammam,Finance,Collector,3/23/2015,7733,Resigned,11
+249,Majed Al-Shehri,Male,29,Saudi,24,Madinah,Finance,Accountant,2/17/2024,10037,Active,2
+250,Dana Al-Malki,Female,37,Filipino,17,Dammam,HR,HR Manager,12/27/2021,22627,Active,5
+251,Fatima Khan,Female,31,Saudi,9,Jeddah,HR,Recruitment Officer,3/4/2016,11824,Active,10
+252,Omar Al-Mutairi,Male,26,Saudi,17,Dammam,HR,HR Specialist,3/26/2016,12961,Active,10
+253,Mariam Ibrahim,Female,45,Saudi,16,Dammam,Maintenance,Electrician,1/22/2023,8065,On Leave,3
+254,Saad Al-Zahrani,Male,34,Saudi,16,Dammam,Sales,Sales Representative,3/4/2016,9265,Active,10
+255,Lama Al-Otaibi,Female,36,Egyptian,6,Riyadh,Marketing,Graphic Designer,1/3/2016,10964,Active,10
+256,Aisha Al-Dosari,Female,28,Saudi,11,Jeddah,Marketing,Events Coordinator,8/1/2021,9489,Active,5
+257,Wafa Hassan,Female,23,Saudi,18,Dammam,Maintenance,Electrician,1/20/2017,10324,Active,9
+258,Sami Al-Rashid,Male,47,Syrian,18,Dammam,Finance,Finance Manager,4/21/2021,24488,Resigned,5
+259,Ahmed Al-Ahmari,Male,23,Saudi,23,Makkah,Finance,Collector,10/17/2020,6154,Active,6
+260,Wafa Al-Otaibi,Female,37,Saudi,34,Hail,Maintenance,Maintenance Engineer,2/8/2017,18115,On Leave,9
+261,Sultan Mahmoud,Male,48,Saudi,25,Madinah,Maintenance,Maintenance Engineer,4/19/2017,16721,Active,9
+262,Mohammed Al-Malki,Male,54,Saudi,37,Jazan,Customer Service,Customer Service Manager,5/6/2023,18739,Active,3
+263,Noura Al-Rashid,Female,26,Saudi,2,Riyadh,Marketing,Events Coordinator,6/20/2015,10233,On Leave,11
+264,Ghada Al-Harbi,Female,32,Saudi,10,Jeddah,HR,HR Specialist,6/3/2023,9704,Active,3
+265,Maha Mahmoud,Female,27,Pakistani,21,Makkah,Customer Service,Customer Service Rep,11/16/2021,6508,Active,5
+266,Ghada Al-Otaibi,Female,40,Pakistani,20,Makkah,Logistics,Logistics Manager,3/6/2019,21101,On Leave,7
+267,Ali Al-Dosari,Male,32,Saudi,21,Makkah,HR,Recruitment Officer,11/19/2018,11429,Active,8
+268,Yousef Al-Zahrani,Male,29,Jordanian,6,Riyadh,HR,Recruitment Officer,11/24/2025,8587,Active,1
+269,Majed Hassan,Male,47,Saudi,5,Riyadh,Maintenance,Workshop Manager,12/1/2016,23525,Active,10
+270,Waleed Al-Qahtani,Male,23,Indian,35,Hail,Finance,Accountant,10/21/2022,9919,Active,4
+271,Bander Salem,Male,54,Syrian,2,Riyadh,Maintenance,Workshop Manager,2/11/2016,22966,Active,10
+272,Fatima Al-Zahrani,Female,48,Saudi,2,Riyadh,Finance,Finance Manager,7/6/2024,22850,Resigned,2
+273,Huda Al-Otaibi,Female,46,Saudi,36,Jazan,Logistics,Logistics Manager,5/22/2023,18255,Active,3
+274,Ahmed Al-Zahrani,Male,35,Saudi,28,Khobar,Sales,Sales Supervisor,11/20/2025,11222,Active,1
+275,Sami Al-Shammari,Male,27,Saudi,19,Dammam,Sales,Sales Representative,5/26/2016,6573,Active,10
+276,Maha Al-Ahmari,Female,48,Saudi,25,Madinah,Maintenance,Maintenance Engineer,1/9/2022,15096,Active,4
+277,Sami Al-Otaibi,Male,34,Saudi,10,Jeddah,HR,Recruitment Officer,2/3/2025,6980,Active,1
+278,Noura Ali,Female,40,Saudi,34,Hail,Finance,Collector,4/16/2024,3917,On Leave,2
+279,Omar Al-Shehri,Male,36,Saudi,37,Jazan,Logistics,Logistics Manager,2/25/2017,20883,Active,9
+280,Reem Al-Qahtani,Female,34,Filipino,6,Riyadh,Logistics,Shipping Coordinator,11/5/2018,8468,On Leave,8
+281,Lama Al-Fahd,Female,26,Saudi,26,Madinah,Marketing,Graphic Designer,9/15/2019,9586,Active,7
+282,Wafa Al-Dosari,Female,35,Saudi,37,Jazan,Marketing,Marketing Specialist,10/25/2016,12671,Active,10
+283,Noura Al-Shammari,Female,32,Saudi,25,Madinah,Logistics,Shipping Coordinator,10/16/2024,6830,Resigned,2
+284,Rania Al-Ahmari,Female,37,Saudi,16,Dammam,Sales,Sales Representative,6/1/2019,6937,Resigned,7
+285,Manal Al-Qahtani,Female,28,Saudi,7,Riyadh,HR,HR Specialist,5/24/2017,9848,Active,9
+286,Ibrahim Al-Ghamdi,Male,37,Saudi,14,Jeddah,HR,HR Manager,9/28/2022,21054,Active,4
+287,Ali Al-Otaibi,Male,49,Saudi,33,Tabuk,Finance,Finance Manager,10/1/2023,23940,Active,3
+288,Lama Al-Rashid,Female,37,Saudi,24,Madinah,Logistics,Warehouse Supervisor,6/27/2019,9910,Active,7
+289,Nasser Al-Rashid,Male,34,Filipino,32,Tabuk,Marketing,Events Coordinator,8/19/2017,8553,Active,9
+290,Yousef Al-Fahd,Male,38,Saudi,11,Jeddah,HR,Recruitment Officer,4/21/2018,10208,Active,8
+291,Dana Al-Fahd,Female,47,Saudi,1,Riyadh,Finance,Finance Manager,3/20/2025,21223,Active,1
+292,Ghada Al-Harbi,Female,22,Saudi,23,Makkah,Finance,Finance Specialist,8/10/2018,11924,On Leave,8
+293,Dana Al-Ahmari,Female,42,Saudi,24,Madinah,Marketing,Graphic Designer,11/4/2019,8550,Resigned,7
+294,Mona Al-Shehri,Female,45,Syrian,20,Makkah,Customer Service,Customer Service Rep,4/2/2023,6428,Active,3
+295,Maha Ibrahim,Female,55,Indian,32,Tabuk,Maintenance,Workshop Manager,7/13/2021,18639,Active,5
+296,Hassan Al-Shehri,Male,45,Saudi,23,Makkah,Marketing,Graphic Designer,11/18/2017,8831,Active,9
+297,Mona Al-Dosari,Female,30,Filipino,36,Jazan,HR,HR Specialist,6/21/2025,9193,Active,1
+298,Hassan Al-Zahrani,Male,38,Syrian,38,Najran,Maintenance,Electrician,8/2/2016,11748,Active,10
+299,Ghada Khan,Female,26,Saudi,25,Madinah,Marketing,Graphic Designer,1/28/2021,9081,Active,5
+300,Ahmed Khan,Male,30,Filipino,12,Jeddah,HR,HR Specialist,6/21/2022,9168,Active,4
+301,Hanan Al-Rashid,Female,36,Saudi,11,Jeddah,Marketing,Marketing Manager,2/5/2022,20534,On Leave,4
+302,Ahmed Al-Malki,Male,29,Indian,13,Jeddah,Logistics,Shipping Coordinator,6/25/2015,7591,Resigned,11
+303,Mariam Ali,Female,49,Filipino,23,Makkah,Maintenance,Maintenance Engineer,7/17/2016,17486,On Leave,10
+304,Sara Al-Malki,Female,42,Indian,22,Makkah,Finance,Finance Manager,8/12/2020,25680,Resigned,6
+305,Faisal Al-Ahmari,Male,39,Saudi,9,Jeddah,Customer Service,Relationship Advisor,10/17/2015,12865,On Leave,11
+306,Majed Khan,Male,34,Egyptian,4,Riyadh,Marketing,Marketing Specialist,2/21/2025,9759,Active,1
+307,Lama Ali,Female,30,Saudi,8,Riyadh,Marketing,Graphic Designer,12/5/2022,8819,On Leave,4
+308,Nasser Al-Harbi,Male,33,Saudi,39,Al Baha,Logistics,Warehouse Supervisor,2/17/2021,8962,Active,5
+309,Fatima Hassan,Female,45,Saudi,13,Jeddah,Marketing,Marketing Manager,9/7/2019,23655,Active,7
+310,Ibrahim Al-Qahtani,Male,45,Saudi,1,Riyadh,Sales,Sales Consultant,10/22/2016,9799,Resigned,10
+311,Nasser Al-Dosari,Male,40,Saudi,7,Riyadh,Maintenance,Maintenance Engineer,5/9/2022,13952,Active,4
+312,Amal Khan,Female,41,Saudi,8,Riyadh,Sales,Sales Consultant,3/22/2015,9402,Active,11
+313,Khadija Al-Ghamdi,Female,38,Pakistani,6,Riyadh,Maintenance,Workshop Manager,2/13/2017,20855,Active,9
+314,Aisha Salem,Female,34,Saudi,4,Riyadh,HR,HR Specialist,7/19/2016,12647,Active,10
+315,Sara Ali,Female,53,Saudi,40,Arar,Sales,Sales Manager,8/4/2022,22420,Resigned,4
+316,Majed Al-Malki,Male,37,Saudi,37,Jazan,Customer Service,Relationship Advisor,9/17/2020,9700,Active,6
+317,Khalid Hassan,Male,32,Jordanian,25,Madinah,Customer Service,Relationship Advisor,1/1/2024,8437,Active,2
+318,Maha Al-Qahtani,Female,36,Saudi,22,Makkah,Maintenance,Maintenance Technician,4/18/2023,7591,Active,3
+319,Faisal Al-Fahd,Male,23,Saudi,37,Jazan,Finance,Accountant,8/11/2022,10461,On Leave,4
+320,Waleed Al-Mutairi,Male,33,Saudi,36,Jazan,Sales,Sales Consultant,10/21/2024,7395,Active,2
+321,Lama Al-Harbi,Female,42,Saudi,15,Dammam,HR,HR Manager,9/25/2020,21273,Active,6
+322,Abdullah Hassan,Male,39,Saudi,22,Makkah,Maintenance,Workshop Manager,9/12/2023,16476,Resigned,3
+323,Bander Al-Harbi,Male,43,Saudi,27,Khobar,Sales,Sales Supervisor,4/7/2024,12419,Active,2
+324,Sara Ali,Female,45,Indian,38,Najran,Sales,Sales Representative,11/19/2022,7345,Active,4
+325,Manal Salem,Female,32,Saudi,36,Jazan,Finance,Collector,3/23/2023,4323,On Leave,3
+326,Saad Al-Fahd,Male,54,Jordanian,25,Madinah,Finance,Finance Manager,7/11/2019,26232,Resigned,7
+327,Huda Al-Ghamdi,Female,51,Saudi,33,Tabuk,Maintenance,Workshop Manager,11/7/2023,17674,On Leave,3
+328,Wafa Al-Bishi,Female,43,Saudi,21,Makkah,Logistics,Warehouse Supervisor,9/16/2020,9132,Active,6
+329,Dana Al-Shehri,Female,23,Indian,34,Hail,Sales,Sales Consultant,3/2/2021,7179,Resigned,5
+330,Sami Al-Shammari,Male,29,Saudi,19,Dammam,Customer Service,Relationship Advisor,6/27/2015,11814,On Leave,11
+331,Ahmed Al-Ahmari,Male,41,Saudi,19,Dammam,Logistics,Logistics Manager,7/13/2015,23274,On Leave,11
+332,Omar Al-Bishi,Male,36,Saudi,29,Khobar,HR,HR Specialist,12/23/2025,9281,Active,1
+333,Huda Al-Ghamdi,Female,48,Saudi,12,Jeddah,Logistics,Warehouse Supervisor,3/24/2017,7730,Active,9
+334,Rashid Al-Bishi,Male,37,Syrian,1,Riyadh,Maintenance,Electrician,1/5/2017,10790,On Leave,9
+335,Wafa Ibrahim,Female,34,Indian,36,Jazan,Maintenance,Maintenance Technician,9/8/2020,10268,Active,6
+336,Rashid Ali,Male,37,Saudi,23,Makkah,Customer Service,Customer Service Rep,6/11/2025,5451,Active,1
+337,Mohammed Al-Mutairi,Male,34,Saudi,36,Jazan,HR,Recruitment Officer,2/22/2015,11204,Active,11
+338,Lina Al-Otaibi,Female,44,Syrian,25,Madinah,Maintenance,Workshop Manager,9/27/2015,23860,Resigned,11
+339,Majed Al-Harbi,Male,28,Saudi,13,Jeddah,Maintenance,Maintenance Technician,3/25/2016,10382,On Leave,10
+340,Noura Al-Qahtani,Female,32,Saudi,28,Khobar,Logistics,Warehouse Supervisor,3/1/2025,6271,Active,1
+341,Hanan Al-Fahd,Female,45,Saudi,4,Riyadh,Customer Service,Customer Service Manager,2/19/2023,18206,Active,3
+342,Khalid Al-Dosari,Male,46,Egyptian,25,Madinah,Logistics,Warehouse Supervisor,1/21/2023,4919,Active,3
+343,Hassan Al-Ghamdi,Male,39,Saudi,19,Dammam,HR,Recruitment Officer,10/3/2019,9675,Active,7
+344,Sara Ibrahim,Female,39,Saudi,9,Jeddah,Logistics,Shipping Coordinator,5/21/2023,8566,Active,3
+345,Fatima Al-Fahd,Female,42,Saudi,8,Riyadh,Sales,Sales Consultant,10/13/2024,4242,On Leave,2
+346,Abdullah Mahmoud,Male,23,Saudi,10,Jeddah,Customer Service,Customer Service Rep,10/27/2018,7139,On Leave,8
+347,Amal Al-Shehri,Female,55,Jordanian,30,Abha,Logistics,Logistics Manager,5/22/2016,24414,Active,10
+348,Ghada Al-Shehri,Female,40,Saudi,7,Riyadh,Maintenance,Maintenance Technician,6/16/2018,9986,On Leave,8
+349,Dana Al-Dosari,Female,39,Saudi,24,Madinah,HR,HR Manager,3/1/2021,20571,Resigned,5
+350,Abdullah Salem,Male,24,Saudi,22,Makkah,Finance,Collector,6/25/2022,7618,Active,4
+351,Tariq Mahmoud,Male,47,Saudi,9,Jeddah,Marketing,Marketing Manager,12/21/2019,24651,On Leave,7
+352,Sultan Al-Shammari,Male,37,Saudi,14,Jeddah,Sales,Sales Supervisor,9/16/2023,11682,On Leave,3
+353,Ibrahim Al-Shehri,Male,49,Saudi,19,Dammam,Customer Service,Customer Service Manager,9/3/2023,16308,Active,3
+354,Maha Al-Qahtani,Female,43,Saudi,12,Jeddah,Marketing,Marketing Manager,6/2/2022,22313,Active,4
+355,Lama Ali,Female,55,Saudi,15,Dammam,Sales,Sales Manager,6/13/2023,19618,Active,3
+356,Ibrahim Al-Ahmari,Male,47,Saudi,17,Dammam,Marketing,Marketing Manager,11/13/2021,22708,Active,5
+357,Waleed Al-Ghamdi,Male,29,Saudi,34,Hail,Finance,Finance Specialist,8/26/2020,10347,Active,6
+358,Ali Al-Fahd,Male,32,Saudi,33,Tabuk,Logistics,Shipping Coordinator,3/6/2018,7852,Resigned,8
+359,Saad Mahmoud,Male,40,Saudi,8,Riyadh,Finance,Collector,4/19/2022,7001,Active,4
+360,Aisha Ali,Female,47,Saudi,9,Jeddah,Logistics,Logistics Manager,10/5/2015,26406,On Leave,11
+361,Aisha Al-Malki,Female,43,Saudi,37,Jazan,Logistics,Warehouse Supervisor,5/3/2025,6584,Active,1
+362,Bander Khan,Male,41,Saudi,39,Al Baha,Customer Service,Relationship Advisor,10/22/2017,12935,On Leave,9
+363,Huda Salem,Female,38,Pakistani,5,Riyadh,Customer Service,Customer Service Manager,3/4/2021,19959,Active,5
+364,Huda Salem,Female,39,Saudi,31,Abha,Marketing,Marketing Specialist,9/25/2023,9901,Active,3
+365,Ghada Mahmoud,Female,25,Jordanian,28,Khobar,Marketing,Events Coordinator,1/23/2020,7740,Active,6
+366,Dana Al-Zahrani,Female,22,Saudi,9,Jeddah,Maintenance,Electrician,2/10/2018,10365,Resigned,8
+367,Lama Al-Shehri,Female,35,Saudi,1,Riyadh,Marketing,Marketing Specialist,1/13/2023,8913,Resigned,3
+368,Hanan Al-Zahrani,Female,48,Saudi,38,Najran,Maintenance,Workshop Manager,7/19/2023,15990,On Leave,3
+369,Huda Al-Harbi,Female,42,Saudi,36,Jazan,Finance,Finance Manager,9/18/2020,23026,Active,6
+370,Abdullah Al-Shammari,Male,55,Saudi,11,Jeddah,Sales,Sales Manager,7/26/2023,21004,Active,3
+371,Faisal Al-Shammari,Male,41,Saudi,6,Riyadh,HR,HR Specialist,10/14/2022,10264,Resigned,4
+372,Ibrahim Al-Bishi,Male,28,Saudi,34,Hail,Maintenance,Maintenance Technician,11/16/2017,10560,Active,9
+373,Khalid Al-Ahmari,Male,47,Saudi,39,Al Baha,Marketing,Marketing Manager,3/22/2024,20520,Active,2
+374,Sami Al-Bishi,Male,52,Saudi,26,Madinah,Finance,Finance Manager,1/24/2023,23166,On Leave,3
+375,Majed Ali,Male,38,Saudi,23,Makkah,Maintenance,Workshop Manager,10/7/2018,20023,On Leave,8
+376,Wafa Mahmoud,Female,30,Saudi,5,Riyadh,Marketing,Graphic Designer,2/26/2020,9385,Resigned,6
+377,Hassan Al-Harbi,Male,30,Saudi,29,Khobar,Finance,Collector,6/25/2018,5925,Active,8
+378,Rasha Ibrahim,Female,30,Jordanian,25,Madinah,Logistics,Warehouse Supervisor,12/8/2025,6584,Active,1
+379,Hassan Al-Mutairi,Male,46,Saudi,17,Dammam,Customer Service,Customer Service Manager,7/22/2016,22493,Active,10
+380,Yousef Al-Zahrani,Male,37,Indian,37,Jazan,Maintenance,Maintenance Engineer,4/16/2025,11685,Active,1
+381,Manal Al-Rashid,Female,39,Saudi,13,Jeddah,HR,HR Specialist,6/5/2024,8891,Active,2
+382,Ibrahim Al-Ahmari,Male,47,Saudi,31,Abha,Maintenance,Workshop Manager,10/28/2022,17502,Active,4
+383,Waleed Al-Harbi,Male,44,Saudi,37,Jazan,Customer Service,Customer Service Rep,7/16/2023,6564,On Leave,3
+384,Bander Al-Dosari,Male,41,Saudi,30,Abha,Maintenance,Maintenance Technician,11/7/2015,10754,Active,11
+385,Fatima Al-Fahd,Female,44,Saudi,12,Jeddah,Marketing,Graphic Designer,5/16/2018,10685,Active,8
+386,Fahad Al-Ahmari,Male,42,Saudi,24,Madinah,HR,HR Manager,8/6/2019,22713,On Leave,7
+387,Lina Al-Shehri,Female,55,Indian,28,Khobar,HR,HR Manager,3/26/2018,24350,On Leave,8
+388,Faisal Al-Harbi,Male,44,Saudi,35,Hail,Logistics,Shipping Coordinator,5/9/2022,6455,Active,4
+389,Amal Al-Rashid,Female,48,Saudi,4,Riyadh,Customer Service,Customer Service Manager,11/4/2022,17141,Active,4
+390,Nasser Al-Dosari,Male,32,Saudi,23,Makkah,HR,Recruitment Officer,4/19/2024,8529,Resigned,2
+391,Bander Al-Fahd,Male,42,Saudi,33,Tabuk,Finance,Collector,7/20/2016,7178,On Leave,10
+392,Rania Al-Ahmari,Female,41,Saudi,37,Jazan,Finance,Accountant,3/11/2016,13376,Resigned,10
+393,Saad Al-Malki,Male,43,Saudi,26,Madinah,Maintenance,Electrician,12/19/2020,8665,Active,6
+394,Wafa Al-Otaibi,Female,22,Saudi,6,Riyadh,Customer Service,Customer Service Rep,2/4/2021,6731,Active,5
+395,Ali Al-Bishi,Male,36,Filipino,34,Hail,HR,HR Specialist,5/20/2016,12817,Resigned,10
+396,Lina Khan,Female,39,Saudi,9,Jeddah,Customer Service,Relationship Advisor,1/2/2017,12807,Active,9
+397,Rasha Ibrahim,Female,44,Saudi,36,Jazan,Finance,Finance Manager,3/19/2023,21845,Active,3
+398,Huda Al-Bishi,Female,35,Saudi,31,Abha,Marketing,Marketing Manager,8/10/2016,26187,Active,10
+399,Rania Al-Rashid,Female,35,Saudi,34,Hail,HR,HR Specialist,5/16/2020,8911,Active,6
+400,Hanan Al-Malki,Female,27,Saudi,39,Al Baha,Customer Service,Customer Service Rep,6/7/2023,5991,Resigned,3
+401,Rania Ibrahim,Female,43,Syrian,25,Madinah,HR,HR Manager,5/3/2018,23146,Active,8
+402,Manal Khan,Female,30,Saudi,13,Jeddah,HR,HR Specialist,3/10/2017,11947,Resigned,9
+403,Nasser Al-Ahmari,Male,39,Saudi,40,Arar,Finance,Finance Manager,1/5/2020,27177,Resigned,6
+404,Bander Al-Fahd,Male,39,Saudi,29,Khobar,Logistics,Warehouse Supervisor,2/5/2018,8779,Active,8
+405,Reem Ibrahim,Female,37,Saudi,24,Madinah,Finance,Accountant,2/27/2020,10402,Active,6
+406,Faisal Khan,Male,42,Pakistani,13,Jeddah,HR,HR Manager,1/4/2021,20687,Resigned,5
+407,Mona Al-Ghamdi,Female,55,Saudi,3,Riyadh,Customer Service,Customer Service Manager,9/22/2016,23624,Resigned,10
+408,Fatima Al-Dosari,Female,36,Saudi,3,Riyadh,Logistics,Logistics Manager,2/9/2023,18273,Resigned,3
+409,Maha Al-Rashid,Female,36,Saudi,14,Jeddah,Sales,Sales Manager,7/11/2025,20670,Active,1
+410,Ali Al-Ghamdi,Male,37,Saudi,38,Najran,HR,Recruitment Officer,12/20/2022,9168,Active,4
+411,Maha Al-Mutairi,Female,39,Saudi,40,Arar,Maintenance,Maintenance Technician,6/21/2015,11553,Resigned,11
+412,Yousef Al-Otaibi,Male,50,Saudi,23,Makkah,HR,HR Manager,1/23/2018,24820,Resigned,8
+413,Dana Salem,Female,39,Saudi,29,Khobar,Marketing,Graphic Designer,12/16/2023,8287,Active,3
+414,Mariam Al-Rashid,Female,55,Saudi,5,Riyadh,Marketing,Marketing Manager,5/27/2022,22197,On Leave,4
+415,Sami Al-Shammari,Male,36,Saudi,25,Madinah,Logistics,Warehouse Supervisor,10/28/2015,8385,On Leave,11
+416,Lama Al-Harbi,Female,38,Saudi,32,Tabuk,HR,Recruitment Officer,10/10/2017,11924,Resigned,9
+417,Lina Ali,Female,54,Saudi,5,Riyadh,Sales,Sales Manager,1/7/2017,26610,Resigned,9
+418,Omar Hassan,Male,24,Saudi,38,Najran,Maintenance,Maintenance Technician,4/20/2020,9506,Active,6
+419,Nasser Al-Qahtani,Male,28,Saudi,4,Riyadh,Maintenance,Electrician,12/2/2020,10100,On Leave,6
+420,Tariq Al-Ghamdi,Male,52,Saudi,7,Riyadh,Sales,Sales Manager,7/7/2023,19996,Resigned,3
+421,Abdullah Al-Ghamdi,Male,39,Saudi,36,Jazan,Finance,Accountant,10/12/2025,7688,Active,1
+422,Mona Ibrahim,Female,32,Jordanian,26,Madinah,Marketing,Graphic Designer,3/18/2025,5964,Active,1
+423,Amal Khan,Female,36,Pakistani,24,Madinah,Finance,Collector,10/8/2020,5860,Active,6
+424,Sara Al-Bishi,Female,37,Saudi,1,Riyadh,Logistics,Warehouse Supervisor,10/1/2019,7831,Active,7
+425,Amal Al-Shehri,Female,34,Saudi,21,Makkah,Sales,Sales Supervisor,9/18/2023,10324,Active,3
+426,Ghada Al-Zahrani,Female,37,Saudi,24,Madinah,Marketing,Marketing Manager,5/26/2018,24640,Resigned,8
+427,Noura Mahmoud,Female,47,Egyptian,21,Makkah,HR,HR Manager,8/27/2017,25904,Active,9
+428,Rashid Al-Rashid,Male,55,Egyptian,4,Riyadh,HR,HR Manager,7/14/2020,21176,Resigned,6
+429,Saad Al-Otaibi,Male,42,Saudi,25,Madinah,Sales,Sales Supervisor,1/11/2023,10948,Active,3
+430,Bander Al-Qahtani,Male,37,Indian,39,Al Baha,Marketing,Marketing Specialist,7/10/2018,11758,On Leave,8
+431,Hassan Ibrahim,Male,28,Saudi,4,Riyadh,Marketing,Events Coordinator,2/13/2019,7050,Active,7
+432,Ali Al-Qahtani,Male,43,Syrian,26,Madinah,Logistics,Logistics Manager,9/20/2018,22380,Active,8
+433,Manal Al-Rashid,Female,44,Saudi,21,Makkah,Logistics,Logistics Manager,2/22/2016,23183,Active,10
+434,Omar Al-Dosari,Male,26,Saudi,23,Makkah,Marketing,Events Coordinator,3/15/2024,7642,Resigned,2
+435,Nasser Khan,Male,37,Saudi,6,Riyadh,Sales,Sales Consultant,10/5/2018,9657,Active,8
+436,Wafa Hassan,Female,41,Saudi,22,Makkah,Customer Service,Relationship Advisor,4/7/2023,7839,Resigned,3
+437,Mohammed Al-Bishi,Male,41,Saudi,10,Jeddah,Logistics,Logistics Manager,1/13/2025,15520,Active,1
+438,Amal Al-Harbi,Female,22,Saudi,40,Arar,Maintenance,Maintenance Technician,11/1/2022,7664,Active,4
+439,Abdullah Al-Zahrani,Male,51,Saudi,25,Madinah,Customer Service,Customer Service Manager,12/4/2023,18197,Active,3
+440,Hanan Al-Ghamdi,Female,30,Saudi,36,Jazan,Logistics,Warehouse Supervisor,4/17/2015,8646,Active,11
+441,Maha Al-Shehri,Female,45,Egyptian,23,Makkah,Maintenance,Workshop Manager,9/9/2018,21531,Active,8
+442,Majed Al-Malki,Male,40,Pakistani,9,Jeddah,Sales,Sales Representative,11/20/2023,4452,Active,3
+443,Saad Al-Bishi,Male,51,Saudi,28,Khobar,Maintenance,Workshop Manager,9/5/2022,18146,Active,4
+444,Abdullah Al-Mutairi,Male,26,Saudi,28,Khobar,HR,HR Specialist,10/6/2025,8926,Active,1
+445,Huda Al-Zahrani,Female,38,Pakistani,2,Riyadh,HR,HR Manager,7/10/2021,19067,Active,5
+446,Ali Al-Rashid,Male,41,Saudi,12,Jeddah,Sales,Sales Supervisor,10/20/2024,11816,Active,2
+447,Huda Al-Ghamdi,Female,28,Saudi,31,Abha,Customer Service,Relationship Advisor,8/23/2024,8423,Active,2
+448,Khalid Al-Ghamdi,Male,36,Indian,3,Riyadh,Finance,Accountant,7/8/2019,10285,On Leave,7
+449,Hanan Salem,Female,45,Jordanian,32,Tabuk,Logistics,Shipping Coordinator,4/14/2022,6358,On Leave,4
+450,Ali Ali,Male,39,Saudi,39,Al Baha,Marketing,Marketing Specialist,2/15/2023,9939,Active,3
+451,Aisha Al-Fahd,Female,31,Filipino,3,Riyadh,Marketing,Events Coordinator,11/2/2023,7872,On Leave,3
+452,Ibrahim Al-Harbi,Male,40,Saudi,4,Riyadh,Logistics,Logistics Manager,8/27/2017,24200,On Leave,9
+453,Reem Al-Ahmari,Female,45,Indian,35,Hail,Customer Service,Customer Service Manager,6/15/2021,19836,Resigned,5
+454,Reem Ali,Female,47,Saudi,11,Jeddah,Logistics,Logistics Manager,2/4/2016,24171,Resigned,10
+455,Abdullah Al-Shehri,Male,40,Saudi,33,Tabuk,Marketing,Marketing Manager,9/13/2021,23089,Resigned,5
+456,Fahad Al-Shehri,Male,28,Filipino,4,Riyadh,Finance,Finance Specialist,12/25/2019,12316,Active,7
+457,Maha Al-Zahrani,Female,53,Saudi,40,Arar,HR,HR Manager,8/16/2015,27120,Resigned,11
+458,Sami Al-Ahmari,Male,41,Saudi,31,Abha,Finance,Collector,2/20/2022,5012,Resigned,4
+459,Tariq Salem,Male,31,Saudi,36,Jazan,HR,HR Specialist,3/5/2015,13271,Active,11
+460,Waleed Mahmoud,Male,33,Saudi,6,Riyadh,Sales,Sales Consultant,3/6/2021,7814,Active,5
+461,Lina Al-Shehri,Female,38,Egyptian,6,Riyadh,HR,HR Manager,6/13/2020,22820,Resigned,6
+462,Fahad Mahmoud,Male,45,Saudi,18,Dammam,Maintenance,Electrician,4/23/2023,7101,Resigned,3
+463,Huda Salem,Female,40,Saudi,34,Hail,Sales,Sales Representative,12/10/2024,3759,Active,2
+464,Nasser Al-Zahrani,Male,35,Saudi,34,Hail,Logistics,Logistics Manager,8/26/2022,20058,Active,4
+465,Ahmed Al-Zahrani,Male,44,Saudi,2,Riyadh,Finance,Accountant,10/14/2018,10427,Active,8
+466,Fahad Al-Mutairi,Male,32,Saudi,17,Dammam,HR,HR Specialist,5/17/2019,11263,Active,7
+467,Noura Al-Shehri,Female,37,Saudi,37,Jazan,Marketing,Marketing Specialist,4/11/2017,13461,Active,9
+468,Ibrahim Al-Bishi,Male,40,Pakistani,30,Abha,HR,Recruitment Officer,8/26/2020,7795,Resigned,6
+469,Yousef Al-Rashid,Male,32,Egyptian,21,Makkah,Marketing,Marketing Specialist,10/22/2018,10806,Active,8
+470,Nasser Al-Mutairi,Male,44,Saudi,35,Hail,HR,HR Specialist,10/13/2024,10739,Active,2
+471,Aisha Al-Harbi,Female,33,Saudi,18,Dammam,Finance,Accountant,4/12/2022,7257,Active,4
+472,Omar Al-Mutairi,Male,37,Saudi,13,Jeddah,Sales,Sales Representative,1/26/2023,6480,Resigned,3
+473,Waleed Al-Shammari,Male,51,Indian,34,Hail,Maintenance,Workshop Manager,2/27/2017,22947,Active,9
+474,Noura Al-Harbi,Female,38,Saudi,1,Riyadh,Maintenance,Maintenance Technician,10/28/2025,7216,Active,1
+475,Lama Al-Ahmari,Female,34,Saudi,20,Makkah,Sales,Sales Supervisor,4/11/2025,10751,Active,1
+476,Sami Al-Dosari,Male,39,Saudi,11,Jeddah,Maintenance,Maintenance Technician,10/18/2015,11632,Active,11
+477,Noura Al-Shehri,Female,22,Syrian,18,Dammam,Customer Service,Relationship Advisor,10/8/2019,11210,Active,7
+478,Manal Al-Dosari,Female,31,Saudi,4,Riyadh,Sales,Sales Representative,2/14/2015,8510,Active,11
+479,Lama Khan,Female,44,Saudi,13,Jeddah,Logistics,Logistics Manager,2/25/2023,18517,Resigned,3
+480,Hanan Al-Ghamdi,Female,45,Filipino,30,Abha,Finance,Finance Manager,3/28/2018,26710,Active,8
+481,Manal Mahmoud,Female,26,Saudi,30,Abha,Finance,Accountant,8/4/2016,11338,On Leave,10
+482,Wafa Khan,Female,34,Saudi,7,Riyadh,Finance,Accountant,9/21/2020,11293,On Leave,6
+483,Khadija Mahmoud,Female,32,Saudi,27,Khobar,Customer Service,Relationship Advisor,9/6/2018,12170,On Leave,8
+484,Lama Mahmoud,Female,41,Syrian,16,Dammam,Customer Service,Relationship Advisor,2/24/2025,8239,Active,1
+485,Mona Hassan,Female,42,Saudi,30,Abha,Maintenance,Maintenance Technician,3/10/2022,8765,Resigned,4
+486,Saad Al-Shehri,Male,49,Saudi,4,Riyadh,Sales,Sales Manager,10/25/2017,25996,On Leave,9
+487,Khadija Al-Dosari,Female,24,Pakistani,19,Dammam,Finance,Collector,4/22/2018,7605,On Leave,8
+488,Ahmed Ibrahim,Male,33,Saudi,1,Riyadh,Marketing,Events Coordinator,5/2/2017,8837,Active,9
+489,Hanan Al-Fahd,Female,39,Saudi,19,Dammam,HR,HR Specialist,7/23/2018,10017,Active,8
+490,Huda Al-Bishi,Female,39,Filipino,12,Jeddah,Finance,Finance Manager,9/13/2018,27248,Active,8
+491,Majed Khan,Male,44,Saudi,1,Riyadh,Sales,Sales Consultant,12/16/2017,7215,On Leave,9
+492,Hanan Al-Dosari,Female,42,Saudi,28,Khobar,Marketing,Marketing Manager,9/14/2022,19326,Active,4
+493,Noura Al-Otaibi,Female,40,Saudi,28,Khobar,Marketing,Marketing Specialist,8/28/2024,9161,Active,2
+494,Rasha Al-Qahtani,Female,38,Filipino,24,Madinah,Sales,Sales Representative,3/24/2016,5933,On Leave,10
+495,Manal Al-Otaibi,Female,45,Saudi,6,Riyadh,Customer Service,Customer Service Manager,12/22/2025,16140,Active,1
+496,Khadija Al-Dosari,Female,31,Syrian,35,Hail,HR,HR Specialist,8/17/2022,9500,Active,4
+497,Manal Al-Rashid,Female,39,Saudi,11,Jeddah,Sales,Sales Supervisor,5/2/2024,10096,Active,2
+498,Dana Al-Ahmari,Female,22,Saudi,6,Riyadh,Customer Service,Relationship Advisor,5/9/2016,11046,Resigned,10
+499,Hassan Al-Ghamdi,Male,51,Saudi,8,Riyadh,Marketing,Marketing Manager,12/5/2024,19280,Active,2
+500,Hanan Al-Malki,Female,49,Saudi,22,Makkah,Sales,Sales Manager,3/27/2024,18991,Resigned,2
