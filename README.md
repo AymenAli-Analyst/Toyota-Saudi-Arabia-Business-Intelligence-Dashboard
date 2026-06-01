@@ -22,7 +22,7 @@ An interactive Power BI dashboard designed to analyze Toyota Saudi Arabia's sale
 
 ### 3️⃣ Operational Efficiency & Salary Insights
 
-![Operational Efficiency Dashboard](https://github.com/USERNAME/REPOSITORY/blob/main/Images/Toyota3.png?raw=true)
+![Operational Efficiency Dashboard](https://github.com/AymenAli-Analyst/Toyota-Saudi-Arabia-Business-Intelligence-Dashboard/blob/main/Toyota3.png?raw=true)
 
 ---
 
